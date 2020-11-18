@@ -1,0 +1,1 @@
+@py.exe C:\Users\ASUS\PycharmProjects\firstfrog\mapIt.py %*
